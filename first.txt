@@ -1,0 +1,6 @@
+hello batch 14 people
+
+commit steps: (save a version in git)
+    >stage all th changes.
+    >commit message
+    >commit.
